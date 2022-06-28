@@ -1,11 +1,16 @@
 ## 対応概要
-
 <!--
   title には「何をしたのか」、この description には「なぜ PR をオープンしたのか」あるいは、
   「その PR をオープンしないといけない理由はなにか」を記述してください。
   参考 URL があるのであれば記載しましょう。
   動作確認に必要な手順がある場合はその手順も明記しましょう。
 -->
+
+### Change Level
+Change Level
+ - [ ] MAJOR change (modify/delete existing implementation)
+ - [ ] MINOR change (add functionality in a backwards-compatible manner)
+ - [ ] PATCH change (backwards-compatible bug fixes / Any test code changes)
 
 ## 承認
 SREメンバーからは事前に2名以上のapprove、  
